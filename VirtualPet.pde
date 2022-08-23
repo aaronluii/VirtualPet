@@ -1,4 +1,4 @@
-size(1000, 1000);
+size(1000, 800);
 background(#00E3FA);
 //grass
 fill(#07F52C);
