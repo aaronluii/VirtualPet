@@ -1,4 +1,4 @@
-size(1000, 600);
+size(1000, 800);
 background(#00E3FA);
 //grass
 fill(#07F52C);
@@ -11,3 +11,5 @@ fill(#666A67);
 ellipse(765, 250, 175, 175);
 //body
 ellipse(600, 365, 400, 200);
+//nose
+rect(765,250,50,150);
