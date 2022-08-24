@@ -1,4 +1,9 @@
+void setup()
+{
 size(1000, 700);
+}
+void draw()
+{
 background(#00E3FA);
 //grass
 fill(#07F52C);
@@ -53,4 +58,4 @@ line(380, 350, 250, 485);
 line(380, 350, 250, 490);
 line(380, 350, 250, 495);
 line(380, 350, 250, 500);
-
+}
